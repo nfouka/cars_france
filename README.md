@@ -8,7 +8,7 @@ SM       : Nadir <br/>
 Dev Team : Mohamed,Jérome,Nadir,Kader <br/>
 
 
-- Il s'agit de développer une site web qui permets de chercher des annonces de voitures 
+- Il s'agit de développer un site web qui permets de chercher des annonces de voitures 
 en France ( commme le site du Boncoin ) , 
 Voici le scénario : 
 
