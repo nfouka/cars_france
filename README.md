@@ -26,4 +26,4 @@ Version 1.2 : Gestion des utilisateurs / sécurité pour CRUD
 Tools : 
 
 Language PHP , avec framework Symfony 4 ( de préférences ) , CSS avec Bootstrap / CSS 3 , et JavaScript/jQuery 
-pour les cartes . 
+pour les cartes . Gestion des version Git
