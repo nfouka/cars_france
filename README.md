@@ -23,7 +23,8 @@ Version 1.0 : Afficher uniquement les voitures , un formulaire d'ajout des voitu
 Version 1.1 : Ajouter la carte de France avec les zones cliquable de chaque département <br/>
 Version 1.2 : Gestion des utilisateurs / sécurité pour CRUD <br/>
 
-Tools : 
-
-Language PHP , avec framework Symfony 4 ( de préférences ) , CSS avec Bootstrap / CSS 3 , et JavaScript/jQuery 
-pour les cartes . Gestion des version Git
+Outils de développements : 
+Symfony 4 ( de préférences ou Drupal ) <br/> 
+CSS avec Bootstrap / CSS 3 , et JavaScript/jQuery <br/>
+Postgresql ( ou mysql / sqlite3 ... ) <br/>
+Git
