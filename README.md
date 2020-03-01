@@ -19,9 +19,9 @@ Ensuite on clique sur le boutton "rechercher" et on liste les voitures avec une 
 
 Gestion des releases : 
 
-Version 1.0 : Afficher uniquement les voitures , un formulaire d'ajout des voitures protégé par une page admin
-Version 1.1 : Ajouter la carte de France avec les zones cliquable de chaque département 
-Version 1.2 : Gestion des utilisateurs / sécurité pour CRUD 
+Version 1.0 : Afficher uniquement les voitures , un formulaire d'ajout des voitures protégé par une page admin<br/>
+Version 1.1 : Ajouter la carte de France avec les zones cliquable de chaque département <br/>
+Version 1.2 : Gestion des utilisateurs / sécurité pour CRUD <br/>
 
 Tools : 
 
