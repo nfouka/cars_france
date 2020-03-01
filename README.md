@@ -1,7 +1,7 @@
 # CARS_FRANCE
 Projet d'apprentissage - Mars 2020 
 
-<img src="https://github.com/nfouka/cars_france/blob/nfouka-patch-1/cars.png" />
+<img src="https://github.com/nfouka/cars_france/blob/nfouka-patch-1/cars.png" style="text-align:center"/>
 
 Projet de développement : 
 ===
