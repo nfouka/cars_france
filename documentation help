@@ -1,0 +1,6 @@
+
+Petites Astuce : 
+=== 
+
+Juste un conseil pour la modification du theme existant ; 
+il faut utiliser les outils de compilation de sass en utilisation nodejs et gulp / ou webpack 
