@@ -9,6 +9,8 @@
  * file that was distributed with this source code.
  */
 
+
+ 
 namespace AppBundle\Command;
 
 use AppBundle\Entity\User;
@@ -39,7 +41,7 @@ use Symfony\Component\Console\Question\Question;
  */
 class AddUserCommand extends ContainerAwareCommand
 {
-    const MAX_ATTEMPTS = 5;
+    const MAX_ATTEMPTS = 15;
 
     /**
      * @var ObjectManager
