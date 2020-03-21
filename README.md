@@ -9,8 +9,8 @@ Projet d'apprentissage - Mars 2020
 
 Projet de développement : 
 ===
-SM       : Nadir <br/>
-Dev Team : Mohamed El Badawi Al Sayed,K.Abdelkader , Jérome <br/>
+SM       : M. <br/>
+Dev Team : Mohamed El Badawi Al Sayed,Kellal Abdelkader , Jérome <br/>
 
 
 - Il s'agit de développer un site web qui permets de chercher des annonces de voitures 
